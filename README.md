@@ -202,7 +202,7 @@ I'm on the journey, too. Follow along:
     - [X] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [X] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [X] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
-    - [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+    - [X] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
     - [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
 - [ ] Series:
     - [ ] [How Google Search Dealt With Mobile](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
